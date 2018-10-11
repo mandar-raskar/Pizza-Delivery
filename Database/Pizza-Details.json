@@ -1,0 +1,56 @@
+{ 
+    "_id" : ObjectId("5bbca4f20976a51034f89268"), 
+    "PizzaImage" : "https://cdnimg.webstaurantstore.com/uploads/buying_guide/2014/11/pizzatypes-margherita-.jpg", 
+    "PizzaName" : "Neapolitan Pizza", 
+    "PizzaPrice" : "400 ", 
+    "PizzaIngradients" : "Since Neapolitan pizza is thinner, it isn't designed to handle the weight of too many toppings. In fact, Neapolitan pizza is so thin that it's typically eaten with a fork and knife. Not to mention, straying away from the original could be considered a pizza sin. The typical Neapolitan pizza toppings are fresh mozzarella, tomatoes, basil leaves, oregano, and olive oil.", 
+    "Discount" : "10"
+}
+{ 
+    "_id" : ObjectId("5bbca9bb0976a51034f89269"), 
+    "PizzaName" : "Chicago Pizza", 
+    "PizzaImage" : "https://cdnimg.webstaurantstore.com/uploads/buying_guide/2014/11/pizzatypes-deepdish.jpg", 
+    "PizzaPrice" : "500 ", 
+    "PizzaIngradients" : "Unlike other styles of pizza, the toppings on a Chicago-style pie aren't found directly on top, but instead underneath a layer of tomato sauce. Generally, the toppings for Chicago pizza are ground beef, sausage, pepperoni, onion, mushrooms, and green peppers. Some locations will even finish off their pizzas with a sprinkle of Parmesan cheese across the tomato sauce.", 
+    "Discount" : "25"
+}
+{ 
+    "_id" : ObjectId("5bbd8098477e502384e08b84"), 
+    "PizzaName" : "New York Style Pizza", 
+    "PizzaImage" : "https://cdnimg.webstaurantstore.com/uploads/blog/2016/8/flat.jpg", 
+    "PizzaPrice" : "550", 
+    "PizzaIngradients" : "Unlike its thin crust counterpart, the Neapolitan, New York-style pizzas can handle a wide range of toppings, from pepperoni and sausage to mushroom and anchovies. While this style of pizza can have virtually any topping added to it, it's more common to find condiments added to a slice, like oregano, red pepper flakes, Parmesan cheese, and garlic powder.", 
+    "Discount" : "10"
+}
+{ 
+    "_id" : ObjectId("5bbd82ea477e502384e08b85"), 
+    "PizzaName" : "Sicilian Pizza", 
+    "PizzaImage" : "https://cdnimg.webstaurantstore.com/uploads/blog/2016/8/rectangle.jpg", 
+    "PizzaPrice" : "550 ", 
+    "PizzaIngradients" : "As mentioned above, the original Sicilian pizza isn't overloaded with toppings. However, the strength of the thick crust is perfect for adding on your guests' favorite toppings.", 
+    "Discount" : "25"
+}
+{ 
+    "_id" : ObjectId("5bbd82ea477e502384e08b86"), 
+    "PizzaName" : "Greek Pizza", 
+    "PizzaImage" : "https://cdnimg.webstaurantstore.com/uploads/blog/2016/8/onions.jpg", 
+    "PizzaPrice" : "550 ", 
+    "PizzaIngradients" : "Since there are no traditional toppings on Greek pizza, outside of mozzarella and cheddar cheese, you or your guests are free to add what you'd like. Not to mention, the thicker design of this pie can handle the weight of multiple toppings. If you really want to pay homage to the country this pizza gets its name from, try adding feta cheese, black olives, and red onion.", 
+    "Discount" : "10"
+}
+{ 
+    "_id" : ObjectId("5bbd82ea477e502384e08b87"), 
+    "PizzaName" : "California Pizza", 
+    "PizzaImage" : "https://cdnimg.webstaurantstore.com/uploads/buying_guide/2014/11/pizzatypes-gourmet.jpg", 
+    "PizzaPrice" : "550 ", 
+    "PizzaIngradients" : "When it comes to California pizza, there's no such thing as traditional toppings. This lack of specificity allows you to get inventive. You can even swap out tomato sauce for barbecue or Alfredo sauce.", 
+    "Discount" : "10"
+}
+{ 
+    "_id" : ObjectId("5bbd82ea477e502384e08b88"), 
+    "PizzaName" : "Tomato Pie", 
+    "PizzaImage" : "https://cdnimg.webstaurantstore.com/uploads/blog/2016/8/red_02.jpg", 
+    "PizzaPrice" : "550 ", 
+    "PizzaIngradients" : "Tomato pie traditionally features a simple blend of sauce and bread, with the occasional sprinkle of Parmesan cheese across the sauce. However, you can also find versions of this pizza that feature ground beef, sausage, and slices of mozzarella.", 
+    "Discount" : "25"
+}

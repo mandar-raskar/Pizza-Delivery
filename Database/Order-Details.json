@@ -1,0 +1,45 @@
+{ 
+    "_id" : ObjectId("5bbf26d9a4792a2038e7156d"), 
+    "Pizza" : "Neapolitan Pizza", 
+    "Name" : "Mandar", 
+    "Address" : "Pune", 
+    "OrderTime" : "Thu Oct 11 2018 15:48:16 GMT+0530 (India Standard Time)", 
+    "DeliveryTime" : "Thu Oct 11 2018 16:18:16 GMT+0530", 
+    "PayableAmount" : "360"
+}
+{ 
+    "_id" : ObjectId("5bbf2700a4792a2038e7156e"), 
+    "Pizza" : "Neapolitan Pizza", 
+    "Name" : "Abhishek", 
+    "Address" : "Chichwad", 
+    "OrderTime" : "Thu Oct 11 2018 16:02:57 GMT+0530 (India Standard Time)", 
+    "DeliveryTime" : "Thu Oct 11 2018 16:32:57 GMT+0530", 
+    "PayableAmount" : "360"
+}
+{ 
+    "_id" : ObjectId("5bbf2717a4792a2038e7156f"), 
+    "Pizza" : "Sicilian Pizza", 
+    "Name" : "Shubham", 
+    "Address" : "Nasik", 
+    "OrderTime" : "Thu Oct 11 2018 16:03:36 GMT+0530 (India Standard Time)", 
+    "DeliveryTime" : "Thu Oct 11 2018 16:33:36 GMT+0530", 
+    "PayableAmount" : "412.5"
+}
+{ 
+    "_id" : ObjectId("5bbf272ea4792a2038e71570"), 
+    "Pizza" : "California Pizza", 
+    "Name" : "Amit", 
+    "Address" : "Aurangabad", 
+    "OrderTime" : "Thu Oct 11 2018 16:03:59 GMT+0530 (India Standard Time)", 
+    "DeliveryTime" : "Thu Oct 11 2018 16:33:59 GMT+0530", 
+    "PayableAmount" : "495"
+}
+{ 
+    "_id" : ObjectId("5bbf2747a4792a2038e71571"), 
+    "Pizza" : "Greek Pizza", 
+    "Name" : "Sanket", 
+    "Address" : "Akurdi", 
+    "OrderTime" : "Thu Oct 11 2018 16:04:22 GMT+0530 (India Standard Time)", 
+    "DeliveryTime" : "Thu Oct 11 2018 16:34:22 GMT+0530", 
+    "PayableAmount" : "495"
+}
