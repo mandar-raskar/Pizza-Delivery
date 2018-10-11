@@ -2,7 +2,8 @@
 This project based on MEAN Stack. It's a pizza delivery system.
 
 Install the Node.js. Link :- https://nodejs.org/en/download/
-Install the angular. In terminal :- npm install -g @angular/cli
+
+Install the angular. For installing Angular :- In terminal :- npm install -g @angular/cli
 
 This is for database (MongoDB)
 For downloading MongoDB :- https://www.mongodb.com/download-center?initial=true#community
