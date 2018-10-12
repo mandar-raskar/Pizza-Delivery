@@ -11,10 +11,10 @@ For downloading MongoDB :- https://www.mongodb.com/download-center?initial=true#
 2. Import the collections from Databse folder in "Pizza" database.
 
 This is for node for server-side to start the api's
-Go to the Folder Node and open it in terminal and type command :- npm i // will install node_modules 
+Go to the Folder "Node_Side" and open it in terminal and type command :- npm i // will install node_modules 
 Then on same path in terminal :- node index.js
 
 This is for angular client-side
-Go to the Folder PizzaDelivery and open it in terminal and terminal :- npm i // will install node_modules 
+Go to the Folder "PizzaDeliveryng" and open it in terminal and terminal :- npm i // will install node_modules 
 Then on same path in terminal :- ng serve
 
